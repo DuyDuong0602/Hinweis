@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hinweis</string>
+    <string name="notes">Hinweis</string>
+    <string name="note_title">Note title</string>
+    <string name="note_tag">Note tag</string>
+    <string name="note_content">Enter note here</string>
+    <string name="note_date_created">Date</string>
+    <string name="search_by_string_placeholder">Search by string</string>
+    <string name="search_by_tag_placeholder">Search by tag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="search_option">
+        <item>Search by string</item>
+        <item>Search by tag</item>
+        <item>Search by content</item>
+    </string-array>
+</resources>
